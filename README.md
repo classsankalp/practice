@@ -1,4 +1,4 @@
-# Prastice
+# Practice
 ### In this repo you need to introduce yourself.
 ## Introduction 
 ### Every individual must write one pharagraph about them.Following points must be included in your introduction. 
