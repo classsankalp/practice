@@ -27,5 +27,5 @@
 - The given link should be copied and pasted in web browser
 - Click on create pull request.
 ## Still if you did not understand how to submit 
- Click [here](https://haxzie.github.io/GitMe)
+ Click [here](https://gitme.js.org/)
 
