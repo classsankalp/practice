@@ -19,5 +19,5 @@ eg-git push origin -u swaaz
 - The given link should be copied and pasted in web browser
 - click on create pull request.
 ## Still if you did not understand how to submit 
- click [here](https://haxzie.github.io/GitMe)
+ click [here](gitme.js.org)
 
