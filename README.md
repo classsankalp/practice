@@ -4,7 +4,7 @@ This is the first repository for the prastice and everyone needs to complete thi
 # Submission
 - Fork this [repo](https://github.com/classsankalp/prastice)
 - clone it using command :git clone paste_the_copied_url.
-- open folder "submssion" using command:cd submission
+- open folder "practice" using command:cd practice
 - create new branch using command:git branch new_branch_name
 eg:git branch swaaz
 - checkout to new branch from master branch using command:git checkout 
